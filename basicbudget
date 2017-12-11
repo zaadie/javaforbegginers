@@ -2,7 +2,7 @@
 public class basicbudget {
 	public static void main(String[] args) 
 	{
-    int income = 500;
+    		int income = 500;
 		int expenses = 400;
 		int savings = income - expenses;
 		
