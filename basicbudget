@@ -10,6 +10,7 @@ public class basicbudget {
 
 		System.out.println("Your income is $" + income);
 		System.out.println("Your expenses are $" + expenses);
+		System.out.println("Your savins are $" + savings);
 	}
 	
 }
