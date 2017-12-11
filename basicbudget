@@ -1,0 +1,15 @@
+
+public class basicbudget {
+	public static void main(String[] args) 
+	{
+    int income = 500;
+		int expenses = 400;
+		int savings = income - expenses;
+		
+		
+
+		System.out.println("Your income is $" + income);
+		System.out.println("Your expenses are $" + expenses);
+	}
+	
+}
