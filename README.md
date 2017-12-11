@@ -1,2 +1,2 @@
-# javaforbegginers
-Shenanigans getting to know java basics (y)
+// javaforbegginers
+// Shenanigans getting to know java basics (y)
